@@ -20,7 +20,7 @@ Predict whether annual income is <=50K or >50K on the Adult/"salary" dataset. Tw
   - GridSearchCV attempted for SVM; due to hardware limits, simple CV over C values was run.
 - Metrics: accuracy, confusion matrix, precision/recall/F1.
 
-## Results (your run)
+## Results 
 | Model | Scaling | Key setting | Accuracy |
 |------:|:------:|:-----------:|---------:|
 | KNN   | Yes    | k=21        | ~0.819 |
